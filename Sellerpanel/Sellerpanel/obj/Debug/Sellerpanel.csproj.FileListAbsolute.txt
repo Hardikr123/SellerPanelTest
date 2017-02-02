@@ -1,0 +1,5 @@
+D:\SellerPanelTest\Sellerpanel\Sellerpanel\bin\Sellerpanel.dll
+D:\SellerPanelTest\Sellerpanel\Sellerpanel\bin\Sellerpanel.pdb
+D:\SellerPanelTest\Sellerpanel\Sellerpanel\obj\Debug\Sellerpanel.csprojResolveAssemblyReference.cache
+D:\SellerPanelTest\Sellerpanel\Sellerpanel\obj\Debug\Sellerpanel.dll
+D:\SellerPanelTest\Sellerpanel\Sellerpanel\obj\Debug\Sellerpanel.pdb

@@ -1,0 +1,85 @@
+body { 
+  color: #222; 
+  background-color:#26599b !important;
+}
+
+#header.navbar-inverse .navbar-inner {
+  background-color: #1e407c;
+  border-color: #141313;
+}
+
+#header .navbar-inner .nav .dropdown-toggle:hover, .navbar-inner .nav .dropdown.open .dropdown-toggle {
+  background-color: #333 !important;
+}
+
+#header.navbar-inverse .divider-vertical {
+  border-left-color: #2c2d2f;
+  border-right-color: #181a1b;
+}
+
+#sidebar > ul > li > a {
+  border-top: 1px solid #1A7EBC !important;
+  border-bottom: 1px solid #1A7EBC !important;
+  color: #fff !important;
+  text-shadow: 0 1px 1px #333 !important;
+}
+
+#sidebar > ul > li a i {
+   color: #fff !important;
+}
+
+#sidebar > ul > li >a:hover, #sidebar > ul > li:hover>a {
+  color: #fff !important;
+  text-shadow: 0 1px 0 rgba(0, 0, 0, .25);
+  background: #1e427f;
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff1e1f21', endColorstr='#ff232527', GradientType=0);
+  border-top: 1px solid #303234;
+  border-bottom: 1px solid #161718;
+}
+
+#sidebar > ul > li.active > a{
+  background: #1e427f !important;
+ 
+}  
+
+#sidebar > ul > li > ul.sub > li > a {
+  color: #ccc;
+  text-shadow: 0 1px 1px #000;
+}
+
+#sidebar > ul > li > ul.sub > li.active > a, #sidebar > ul > li > ul.sub > li > a:hover {
+  color: #fff !important;
+  background: #534f4e !important;  
+   -webkit-border-radius: 2px !important;
+        -moz-border-radius: 2px !important;
+             border-radius: 2px !important;
+}
+
+#sidebar > ul > li > ul.sub > li > a:hover {
+  background: #534f4e !important;
+}
+
+/* sub menu bg color on hover menu item */
+.sidebar-closed #sidebar > ul > li:hover .sub {
+  background-color: #2a2b2e;
+}
+
+/* Landscape phone to portrait tablet */
+@media (max-width:979px) { 
+  #sidebar {
+    background-color: #232427 !important;
+     -webkit-border-radius: 4px !important;
+        -moz-border-radius: 4px !important;
+             border-radius: 4px !important;
+  }
+
+  #sidebar > ul > li > a {
+    border-top: 1px solid #2c2d30 !important;
+    border-bottom: 1px solid #191a1c !important;
+  }
+
+  #sidebar > ul > li.active > a, #sidebar > ul > li:hover > a, #sidebar > ul > li > a:hover {
+    border-top: 1px solid #2c2d30 !important;
+    border-bottom: 1px solid #191a1c !important;
+  }
+}
