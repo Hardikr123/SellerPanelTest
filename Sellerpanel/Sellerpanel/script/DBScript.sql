@@ -64,5 +64,13 @@ Active bit
 )
 
 
+categorymaster
+brandmaster
+CountryofOrigin
+ProcessTimeMaster
+WarrantyMaster
+product
+
+
 
 
